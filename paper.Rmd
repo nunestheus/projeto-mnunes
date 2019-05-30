@@ -65,7 +65,7 @@ A tabela *mtcars* tem:
 `r ncol(mtcars)` colunas 
 
 
-<!-- ### -->
+
 <!-- ###  COLOCANDO TABELA  -->
 <!-- ### -->
 ```{r,echo=FALSE,eval=TRUE}
