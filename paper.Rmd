@@ -22,6 +22,9 @@ if(!require("knitr")) install.packages("knitr")
 # Resumo
 
 # Introdução
+
+Primeira frase.
+
 <!-- codigo para inserir uma figura -->
 ![](figuras/Rplot.png) 
 
