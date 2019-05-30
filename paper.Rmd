@@ -5,8 +5,11 @@ author:
 -  ^1^UFG
 -  ^2^*Casa*
 - \*mamae@gmail.com
-output:  
-  word_document:
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    highlight: tango 
     reference_docx: scripts/modelo.docx
 bibliography: library/My-Collection.bib
 csl: library/ecology-letters.csl
