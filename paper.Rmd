@@ -1,13 +1,16 @@
 ---
 title:  "Projeto Imaginário Aleatorio para aprendizado do Workshop de RMarkdown"
 author: 
--  Matheus Nunes da Silva^1^; ^2^Mãe\*
+-  Matheus Nunes da Silva^1^; ^2^Rafaela V Granzotti\*
 -  ^1^UFG
 -  ^2^*Casa*
-- \*mamae@gmail.com
-output:  
-  word_document:
-    reference_docx: scripts/modelo.docx
+- \*rafalinda@gmail.com
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    highlight: tango
+    
 bibliography: library/My-Collection.bib
 csl: library/ecology-letters.csl
 ---
